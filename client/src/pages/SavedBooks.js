@@ -33,10 +33,6 @@ const SavedBooks = () => {
         variables: { bookId: bookId }
       });
 
-      if (error) {
-        throw new Error('something went wrong!');
-      }
-
       setUserData(updatedData.data.removeBook);
       // upon success, remove book's id from localStorage
       removeBookId(bookId);
