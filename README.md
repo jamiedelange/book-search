@@ -7,16 +7,11 @@
   Google Books API search engine built with GraphQL on an Apollo Server, using the MERN stack
 
   # Table of Contents
-  * [Installation Instructions](#installation-instructions)
   * [Usage Information](#usage-information)
-  * [Contribution Guidelines](#contribution-guidelines)
-  * [Test Instructions](#test-instructions)
   * [Licenses](#licenses)
 
-
   # Usage Information
-  Search for books using the search bar. Create an account to save books
-  
+  Access via deployed link here: https://obscure-plateau-85568.herokuapp.com/ Search for books using the search bar. Create an account to save books
   
   # Licenses
   ![license badge](https://img.shields.io/badge/license-MIT-blue)
