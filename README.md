@@ -26,3 +26,6 @@
 
   E-mail me at jamie.de.lange@mac.com if you have any questions!
   
+  # Screenshot of application: 
+  
+  ![Screenshot of application](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1xhhlp1e13bj926gl5ac.png)
